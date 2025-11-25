@@ -1,0 +1,5 @@
+{
+  "name": " Redimensionador de Posts com IA",
+  "description": "An AI-powered tool to intelligently resize and reformat social media posts. Upload an image, choose new dimensions like 'Stories' or 'Wide', and the AI will adjust the layout, including text, to fit the new format perfectly.",
+  "requestFramePermissions": []
+}
